@@ -2,7 +2,6 @@
 
 ## Olá, Eu sou o Jean Cigoli - [JeanCigoli](http://jeancigoli.github.io) 👋
 
----
 
 ### Redes sociais:
 
