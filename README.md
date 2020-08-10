@@ -42,6 +42,5 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCigoli&layout=compact&hide_border=true)](https://github.com/JeanCigoli)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JeanCigoli&show_icons=true&hide_border=true)](https://github.com/JeanCigoli)
 
 
