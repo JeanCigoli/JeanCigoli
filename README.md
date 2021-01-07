@@ -40,7 +40,7 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCigoli&layout=compact&hide_border=true)](https://github.com/JeanCigoli)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCigoli&layout=compact&hide_border=false)](https://github.com/JeanCigoli)
 
 
 
