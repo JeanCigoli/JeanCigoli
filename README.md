@@ -13,8 +13,7 @@
 
 * 💻 Formado no técnico de desenvolvimento de sistema pelo [Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas)
 * 💻 Estou cursando Sistemas de Informação - bacharelado
-* 💻 Desenvolvedor Júnior
-* 🎺 Minha distração é a Música 
+* 💻 Desenvolvedor
 
 ### Linguagens e ferramentas
 
