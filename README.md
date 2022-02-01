@@ -2,11 +2,11 @@
 
 <p align="left">
   <a href="https://jeancigoli.vercel.app/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Site pessoal-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://jeancigoli.vercel.app"/>
+    <img src="https://img.shields.io/badge/-Site%20pessoal-007ACC?style=for-the-badge&logo=html5&logoColor=FFFFFF&link=https://jeancigoli.vercel.app"/>
   </a>
   
   <a href="https://www.linkedin.com/in/cigoli/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/cigoli"/>
+    <img src="https://img.shields.io/badge/-Linkedin-007ACC?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/cigoli"/>
   </a>
 </p>
 
